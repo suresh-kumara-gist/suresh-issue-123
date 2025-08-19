@@ -3,8 +3,8 @@ backend:
   name: github
   repo: alberto56/suresh-issue-123
   branch: main
-  base_url: https://auth.static.dcycle.com
-  auth_endpoint: auth/github/alberto56
+  base_url: https://suresh-issue-82.dcycleproject.org
+  auth_endpoint: /auth/github/68a4843ea01ae4d50752b8a9
 media_folder: 'docs/media'
 public_folder: "/media"
 collections:
