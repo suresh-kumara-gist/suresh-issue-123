@@ -4,7 +4,8 @@ backend:
   repo: alberto56/suresh-issue-123
   branch: main
   base_url: https://suresh-issue-82.dcycleproject.org
-  auth_endpoint: /auth/github/68a4843ea01ae4d50752b8a9
+  # auth_endpoint: /auth/github/68a4843ea01ae4d50752b8a9
+  auth_endpoint: /auth/github/suresh-kumara-gist
 media_folder: 'docs/media'
 public_folder: "/media"
 collections:
