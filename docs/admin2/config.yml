@@ -5,7 +5,7 @@ backend:
   branch: main
   base_url: https://suresh-issue-82.dcycleproject.org
   # auth_endpoint: /auth/github/68a4843ea01ae4d50752b8a9
-  auth_endpoint: /auth/github/suresh-kumara-gist
+  auth_endpoint: /auth/github/68a8901095b61ab4aef5f757
 media_folder: 'docs/media'
 public_folder: "/media"
 collections:
