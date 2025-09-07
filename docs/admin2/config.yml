@@ -1,7 +1,7 @@
 
 backend:
   name: github
-  repo: alberto56/suresh-issue-123
+  repo: suresh-kumara-gist/suresh-issue-123
   branch: main
   base_url: https://suresh-issue-82.dcycleproject.org
   # auth_endpoint: /auth/github/68a4843ea01ae4d50752b8a9
